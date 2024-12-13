@@ -20,4 +20,5 @@ Developed an API for the backend using google cloud platform to use google servi
 - Compute Engine
 - Firestore
 - Bucket
+- Firebase
 
